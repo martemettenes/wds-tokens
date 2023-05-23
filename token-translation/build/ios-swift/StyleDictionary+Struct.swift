@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 May 2023 07:30:13 GMT
+// Generated on Tue, 23 May 2023 07:40:46 GMT
 
 
 import UIKit
@@ -24,5 +24,5 @@ internal struct StyleDictionaryStruct {
     internal static let colorNeutralBlack = #000000
     internal static let colorNeutralWhite = #ffffff
     internal static let colorPurple10 = #301e63
-    internal static let tokenSetOrder0 = global
+    internal static let tokenSetOrder0 = color
 }

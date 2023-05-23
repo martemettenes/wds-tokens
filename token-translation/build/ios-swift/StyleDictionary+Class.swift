@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 May 2023 07:30:13 GMT
+// Generated on Tue, 23 May 2023 07:40:46 GMT
 
 
 import UIKit
@@ -24,5 +24,5 @@ public class StyleDictionaryClass {
     public static let colorNeutralBlack = #000000
     public static let colorNeutralWhite = #ffffff
     public static let colorPurple10 = #301e63
-    public static let tokenSetOrder0 = global
+    public static let tokenSetOrder0 = color
 }
