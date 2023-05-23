@@ -51,6 +51,10 @@
     "value": "#000000",
     "type": "color"
   },
+  "color-purple-10": {
+    "value": "#301e63",
+    "type": "color"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",

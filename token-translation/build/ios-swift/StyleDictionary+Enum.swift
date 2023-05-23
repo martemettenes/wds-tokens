@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 22 May 2023 12:09:27 GMT
+// Generated on Tue, 23 May 2023 07:18:31 GMT
 
 
 import UIKit
@@ -23,5 +23,6 @@ public enum StyleDictionaryEnum {
     public static let colorNeutral70 = #dadada
     public static let colorNeutralBlack = #000000
     public static let colorNeutralWhite = #ffffff
+    public static let colorPurple10 = #301e63
     public static let tokenSetOrder0 = global
 }
