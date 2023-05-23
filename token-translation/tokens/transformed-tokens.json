@@ -55,9 +55,17 @@
     "value": "#301e63",
     "type": "color"
   },
+  "color": {
+    "purple": {
+      "20": {
+        "value": "#493389",
+        "type": "color"
+      }
+    }
+  },
   "tokenSetOrder": {
     "0": {
-      "value": "color",
+      "value": "global",
       "type": "other"
     }
   }
