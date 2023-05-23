@@ -1,62 +1,66 @@
 {
-  "color-green-90": {
-    "value": "#ebfff3",
-    "type": "color"
-  },
-  "color-green-80": {
-    "value": "#cfefdc",
-    "type": "color"
-  },
-  "color-green-60": {
-    "value": "#a0cbb1",
-    "type": "color"
-  },
-  "color-green-50": {
-    "value": "#70a384",
-    "type": "color"
-  },
-  "color-green-40": {
-    "value": "#457659",
-    "type": "color"
-  },
-  "color-green-30": {
-    "value": "#325b43",
-    "type": "color"
-  },
-  "color-green-20": {
-    "value": "#1e442e",
-    "type": "color"
-  },
-  "color-green-10": {
-    "value": "#102b1a",
-    "type": "color"
-  },
-  "color-neutral-white": {
-    "value": "#ffffff",
-    "type": "color"
-  },
-  "color-neutral-70": {
-    "value": "#dadada",
-    "type": "color"
-  },
-  "color-neutral-50": {
-    "value": "#959595",
-    "type": "color"
-  },
-  "color-neutral-30": {
-    "value": "#454545",
-    "type": "color"
-  },
-  "color-neutral-black": {
-    "value": "#000000",
-    "type": "color"
-  },
-  "color-purple-10": {
-    "value": "#301e63",
-    "type": "color"
-  },
   "color": {
+    "green": {
+      "10": {
+        "value": "#102b1a",
+        "type": "color"
+      },
+      "20": {
+        "value": "#1e442e",
+        "type": "color"
+      },
+      "30": {
+        "value": "#325b43",
+        "type": "color"
+      },
+      "40": {
+        "value": "#457659",
+        "type": "color"
+      },
+      "50": {
+        "value": "#70a384",
+        "type": "color"
+      },
+      "60": {
+        "value": "#a0cbb1",
+        "type": "color"
+      },
+      "80": {
+        "value": "#cfefdc",
+        "type": "color"
+      },
+      "90": {
+        "value": "#ebfff3",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "30": {
+        "value": "#454545",
+        "type": "color"
+      },
+      "50": {
+        "value": "#959595",
+        "type": "color"
+      },
+      "70": {
+        "value": "#dadada",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
     "purple": {
+      "10": {
+        "value": "#301e63",
+        "type": "color"
+      },
       "20": {
         "value": "#493389",
         "type": "color"
