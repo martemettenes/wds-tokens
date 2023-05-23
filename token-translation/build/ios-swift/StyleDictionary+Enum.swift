@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 May 2023 08:39:08 GMT
+// Generated on Tue, 23 May 2023 08:42:17 GMT
 
 
 import UIKit
@@ -25,5 +25,7 @@ public enum StyleDictionaryEnum {
     public static let colorNeutralWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorPurple10 = UIColor(red: 0.188, green: 0.118, blue: 0.388, alpha: 1)
     public static let colorPurple20 = UIColor(red: 0.286, green: 0.200, blue: 0.537, alpha: 1)
+    public static let colorPurple30 = UIColor(red: 0.439, green: 0.329, blue: 0.749, alpha: 1)
+    public static let colorPurple40 = UIColor(red: 0.576, green: 0.475, blue: 0.875, alpha: 1)
     public static let tokenSetOrder0 = global
 }

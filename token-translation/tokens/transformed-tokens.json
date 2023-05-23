@@ -64,6 +64,14 @@
       "20": {
         "value": "#493389",
         "type": "color"
+      },
+      "30": {
+        "value": "#7054bf",
+        "type": "color"
+      },
+      "40": {
+        "value": "#9379df",
+        "type": "color"
       }
     }
   },
