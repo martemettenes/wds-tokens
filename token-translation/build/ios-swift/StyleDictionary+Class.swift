@@ -1,6 +1,6 @@
 
 //
-// StyleDictionary+Enum.swift
+// StyleDictionary+Class.swift
 //
 
 // Do not edit directly
@@ -9,7 +9,7 @@
 
 import UIKit
 
-public enum StyleDictionaryEnum {
+public class StyleDictionaryClass {
     public static let colorGreen10 = UIColor(red: 0.063, green: 0.169, blue: 0.102, alpha: 1)
     public static let colorGreen20 = UIColor(red: 0.118, green: 0.267, blue: 0.180, alpha: 1)
     public static let colorGreen30 = UIColor(red: 0.196, green: 0.357, blue: 0.263, alpha: 1)
