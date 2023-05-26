@@ -123,12 +123,10 @@
       "type": "lineHeights"
     }
   },
-  "font": {
-    "weight": {
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
+  "fontweight": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
     }
   },
   "fontsize": {

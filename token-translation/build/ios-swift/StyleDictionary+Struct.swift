@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 May 2023 08:48:26 GMT
+// Generated on Fri, 26 May 2023 08:52:03 GMT
 
 
 import UIKit
@@ -31,7 +31,6 @@ internal struct StyleDictionaryStruct {
     internal static let colorPurple60 = UIColor(red: 0.780, green: 0.706, blue: 0.988, alpha: 1)
     internal static let colorPurple80 = UIColor(red: 0.875, green: 0.831, blue: 1.000, alpha: 1)
     internal static let colorPurple90 = UIColor(red: 0.941, green: 0.922, blue: 1.000, alpha: 1)
-    internal static let fontWeightRegular = "Regular"
     internal static let fontfamilyNunito = Nunito
     internal static let fontsize14 = 14
     internal static let fontsize16 = 16
@@ -39,6 +38,7 @@ internal struct StyleDictionaryStruct {
     internal static let fontsize24 = 24
     internal static let fontsize32 = 32
     internal static let fontsize42 = 42
+    internal static let fontweightRegular = Regular
     internal static let lineheight18 = 18
     internal static let lineheight20 = 20
     internal static let lineheight22 = 22
