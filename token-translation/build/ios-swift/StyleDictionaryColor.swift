@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 May 2023 08:05:19 GMT
+// Generated on Fri, 26 May 2023 08:48:26 GMT
 
 
 import UIKit
@@ -27,4 +27,8 @@ public enum StyleDictionaryColor {
     public static let purple20 = UIColor(red: 0.286, green: 0.200, blue: 0.537, alpha: 1)
     public static let purple30 = UIColor(red: 0.439, green: 0.329, blue: 0.749, alpha: 1)
     public static let purple40 = UIColor(red: 0.576, green: 0.475, blue: 0.875, alpha: 1)
+    public static let purple50 = UIColor(red: 0.667, green: 0.569, blue: 0.937, alpha: 1)
+    public static let purple60 = UIColor(red: 0.780, green: 0.706, blue: 0.988, alpha: 1)
+    public static let purple80 = UIColor(red: 0.875, green: 0.831, blue: 1.000, alpha: 1)
+    public static let purple90 = UIColor(red: 0.941, green: 0.922, blue: 1.000, alpha: 1)
 }

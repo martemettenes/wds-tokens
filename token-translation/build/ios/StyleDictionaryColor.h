@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 May 2023 08:05:19 GMT
+// Generated on Fri, 26 May 2023 08:48:26 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -26,7 +26,11 @@ ColorNeutralBlack,
 ColorPurple10,
 ColorPurple20,
 ColorPurple30,
-ColorPurple40
+ColorPurple40,
+ColorPurple50,
+ColorPurple60,
+ColorPurple80,
+ColorPurple90
 };
 
 @interface StyleDictionaryColor : NSObject

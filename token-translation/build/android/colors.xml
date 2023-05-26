@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 26 May 2023 08:05:19 GMT
+  Generated on Fri, 26 May 2023 08:48:26 GMT
 -->
 <resources>
   <color name="color_green_10">#ff102b1a</color>
@@ -22,5 +22,9 @@
   <color name="color_purple_20">#ff493389</color>
   <color name="color_purple_30">#ff7054bf</color>
   <color name="color_purple_40">#ff9379df</color>
+  <color name="color_purple_50">#ffaa91ef</color>
+  <color name="color_purple_60">#ffc7b4fc</color>
+  <color name="color_purple_80">#ffdfd4ff</color>
+  <color name="color_purple_90">#fff0ebff</color>
   
 </resources>

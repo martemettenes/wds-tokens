@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 May 2023 08:05:19 GMT
+// Generated on Fri, 26 May 2023 08:48:26 GMT
 
 
 import UIKit
@@ -27,5 +27,23 @@ public class StyleDictionaryClass {
     public static let colorPurple20 = UIColor(red: 0.286, green: 0.200, blue: 0.537, alpha: 1)
     public static let colorPurple30 = UIColor(red: 0.439, green: 0.329, blue: 0.749, alpha: 1)
     public static let colorPurple40 = UIColor(red: 0.576, green: 0.475, blue: 0.875, alpha: 1)
+    public static let colorPurple50 = UIColor(red: 0.667, green: 0.569, blue: 0.937, alpha: 1)
+    public static let colorPurple60 = UIColor(red: 0.780, green: 0.706, blue: 0.988, alpha: 1)
+    public static let colorPurple80 = UIColor(red: 0.875, green: 0.831, blue: 1.000, alpha: 1)
+    public static let colorPurple90 = UIColor(red: 0.941, green: 0.922, blue: 1.000, alpha: 1)
+    public static let fontWeightRegular = "Regular"
+    public static let fontfamilyNunito = Nunito
+    public static let fontsize14 = 14
+    public static let fontsize16 = 16
+    public static let fontsize18 = 18
+    public static let fontsize24 = 24
+    public static let fontsize32 = 32
+    public static let fontsize42 = 42
+    public static let lineheight18 = 18
+    public static let lineheight20 = 20
+    public static let lineheight22 = 22
+    public static let lineheight28 = 28
+    public static let lineheight36 = 36
+    public static let lineheight48 = 48
     public static let tokenSetOrder0 = global
 }

@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Fri, 26 May 2023 08:05:19 GMT
+// Generated on Fri, 26 May 2023 08:48:26 GMT
 
 
 
@@ -28,4 +28,8 @@ object StyleDictionaryColor {
   val colorPurple20 = Color(0xff493389)
   val colorPurple30 = Color(0xff7054bf)
   val colorPurple40 = Color(0xff9379df)
+  val colorPurple50 = Color(0xffaa91ef)
+  val colorPurple60 = Color(0xffc7b4fc)
+  val colorPurple80 = Color(0xffdfd4ff)
+  val colorPurple90 = Color(0xfff0ebff)
 }

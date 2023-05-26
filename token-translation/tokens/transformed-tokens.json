@@ -72,7 +72,89 @@
       "40": {
         "value": "#9379df",
         "type": "color"
+      },
+      "50": {
+        "value": "#aa91ef",
+        "type": "color"
+      },
+      "60": {
+        "value": "#c7b4fc",
+        "type": "color"
+      },
+      "80": {
+        "value": "#dfd4ff",
+        "type": "color"
+      },
+      "90": {
+        "value": "#f0ebff",
+        "type": "color"
       }
+    }
+  },
+  "fontfamily": {
+    "nunito": {
+      "value": "Nunito",
+      "type": "fontFamilies"
+    }
+  },
+  "lineheight": {
+    "18": {
+      "value": 18,
+      "type": "lineHeights"
+    },
+    "20": {
+      "value": 20,
+      "type": "lineHeights"
+    },
+    "22": {
+      "value": 22,
+      "type": "lineHeights"
+    },
+    "28": {
+      "value": 28,
+      "type": "lineHeights"
+    },
+    "36": {
+      "value": 36,
+      "type": "lineHeights"
+    },
+    "48": {
+      "value": 48,
+      "type": "lineHeights"
+    }
+  },
+  "font": {
+    "weight": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    }
+  },
+  "fontsize": {
+    "14": {
+      "value": 14,
+      "type": "fontSizes"
+    },
+    "16": {
+      "value": 16,
+      "type": "fontSizes"
+    },
+    "18": {
+      "value": 18,
+      "type": "fontSizes"
+    },
+    "24": {
+      "value": 24,
+      "type": "fontSizes"
+    },
+    "32": {
+      "value": 32,
+      "type": "fontSizes"
+    },
+    "42": {
+      "value": 42,
+      "type": "fontSizes"
     }
   },
   "tokenSetOrder": {
