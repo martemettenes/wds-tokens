@@ -4,6 +4,7 @@
     "scss": {
       "transformGroup": "scss",
       "buildPath": "build/scss/",
+      "transforms": ["name/cti/kebab", "size/pxToRem"],
       "files": [{
         "destination": "_variables.scss",
         "format": "scss/variables"
@@ -46,6 +47,51 @@
         }
       }]
     },
+    "ios": {
+      "transformGroup": "ios",
+      "buildPath": "build/ios/",
+      "files": [{
+        "destination": "StyleDictionaryColor.h",
+        "format": "ios/colors.h",
+        "className": "StyleDictionaryColor",
+        "type": "StyleDictionaryColorName",
+        "filter": {
+          "attributes": {
+            "category": "color"
+          }
+        }
+      },{
+        "destination": "StyleDictionaryColor.m",
+        "format": "ios/colors.m",
+        "className": "StyleDictionaryColor",
+        "type": "StyleDictionaryColorName",
+        "filter": {
+          "attributes": {
+            "category": "color"
+          }
+        }
+      },{
+        "destination": "StyleDictionarySize.h",
+        "format": "ios/static.h",
+        "className": "StyleDictionarySize",
+        "type": "float",
+        "filter": {
+          "attributes": {
+            "category": "size"
+          }
+        }
+      },{
+        "destination": "StyleDictionarySize.m",
+        "format": "ios/static.m",
+        "className": "StyleDictionarySize",
+        "type": "float",
+        "filter": {
+          "attributes": {
+            "category": "size"
+          }
+        }
+      }]
+    },
     "ios-swift": {
       "transformGroup": "ios-swift",
       "buildPath": "build/ios-swift/",
@@ -53,6 +99,11 @@
         "destination": "StyleDictionary+Class.swift",
         "format": "ios-swift/class.swift",
         "className": "StyleDictionaryClass",
+        "filter": {}
+      },{
+        "destination": "StyleDictionary+Enum.swift",
+        "format": "ios-swift/enum.swift",
+        "className": "StyleDictionaryEnum",
         "filter": {}
       },{
         "destination": "StyleDictionary+Struct.swift",
@@ -66,14 +117,27 @@
         }
       }]
     },
-    "ios-swift": {
-      "transformGroup": "ios-swift",
+    "ios-swift-separate-enums": {
+      "transformGroup": "ios-swift-separate",
       "buildPath": "build/ios-swift/",
       "files": [{
-        "destination": "StyleDictionary+Enum.swift",
+        "destination": "StyleDictionaryColor.swift",
         "format": "ios-swift/enum.swift",
-        "className": "StyleDictionaryEnum",
-        "filter": {}
+        "className": "StyleDictionaryColor",
+        "filter": {
+          "attributes": {
+            "category": "color"
+          }
+        }
+      },{
+        "destination": "StyleDictionarySize.swift",
+        "format": "ios-swift/enum.swift",
+        "className": "StyleDictionarySize",
+        "filter": {
+          "attributes": {
+            "category": "size"
+          }
+        }
       }]
     }
   }
